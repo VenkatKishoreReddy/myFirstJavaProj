@@ -1,2 +1,2 @@
 first folder file modified
-second line added
+ second line added
